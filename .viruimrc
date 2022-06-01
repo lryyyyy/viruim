@@ -1,0 +1,10 @@
+source 00_basic.vim
+source 01_plugin.vim
+source 02_airline.vim
+source 03_asyncrun.vim
+source 04_gutentags.vim
+source 05_alinter.vim
+source 06_signify.vim
+source 07_echodoc.vim
+source 08_leaderf.vim
+source 99_others.vim
